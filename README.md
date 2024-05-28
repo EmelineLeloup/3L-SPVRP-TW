@@ -1,5 +1,7 @@
 # 3L-SPVRP-TW
 
+This folder provides instances for a three-dimensional loading vehicle routing problem with split pickups and time windows (3L-SPVRP-TW).
+
 The "instances" folder contains 240 instances adapted from Krebs et al. (2021) to match information obtained during a survey. To have more information about the instances, please refer to the readme file included in the "instances" folder.
 
 
