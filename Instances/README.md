@@ -22,5 +22,4 @@ The structure of an instance is as follows:
 **References**
 
 Krebs C, Ehmke JF, (2021). Axle Weights in combined Vehicle Routing and Container Loading Problems. EURO Journal on Transportation and Logistics, Volume 10, ISSN 2192-4376, DOI: 10.1016/j.ejtl.2021.100043,
-URL https://www.sciencedirect.com/science/article/pii/S2192437621000157
-![image](https://github.com/EmelineLeloup/3L-SPVRP-TW/assets/156212901/7c945485-a0c9-4fbc-9570-80f35442468e)
+URL https://www.sciencedirect.com/science/article/pii/S2192437621000157 
