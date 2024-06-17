@@ -15,9 +15,10 @@ The structure of an instance is as follows:
 5. the number of vehicles (fleet size)
 6. description of the vehicle type (weight, length, width, height) and the maximum working (driving, waiting, service) duration of the driver
 7. customers information: id of the customer - x location - y location - total demand - the beginning of the time window - the end of the time window - the service duration
+   
    The time window is designed to include the start and end times of the service. 
-8. items information : type id - length - width - height - mass
-9. demands per customers: the customer id followed by the box type and the associated quantity
+9. items information : type id - length - width - height - mass
+10. demands per customers: the customer id followed by the box type and the associated quantity
 
 
 **References**
